@@ -1,0 +1,7 @@
+Encoder: https://www.aliexpress.com/item/32915420023.html (the round one)
+
+OLED: https://www.aliexpress.com/item/32896971385.html
+
+MAX485: https://www.aliexpress.com/item/1875865240.html
+
+Step-down converter: https://aliexpress.ru/item/32774098119.html
